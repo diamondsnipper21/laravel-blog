@@ -74,7 +74,7 @@ $ docker-compose run --rm blog-server php artisan migrate --seed
 
 This will create a new user that you can use to sign in :
 ```yml
-email: darthvader@deathstar.ds
+email: diamondsnipper21@gmail.com
 password: 4nak1n
 ```
 
